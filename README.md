@@ -1,9 +1,9 @@
 # OSU_CS270_Assignments
 Assignments for CS 270 (assemble language)
 
-<list>Assignment 1
+Assignment 1
 
-Assignment 2<br/>
+<br>Assignment 2<br>
 
 Assignment 3
 
