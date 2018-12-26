@@ -1,16 +1,16 @@
 # OSU_CS270_Assignments
 Assignments for CS 270 (assemble language)
-
+<hr>
 <ul>
-<li>Assignment 1</li>
+<li>Program 1</li>
 
-<li>Assignment 2</li>
+<li>Program 2</li>
 
-<li>Assignment 3</li>
+<li>Program 3</li>
 
-<li>Assignment 4</li>
+<li>Program 4</li>
 
-<li>Assignment 5</li>
+<li>Program 5</li>
 
-<li>Assignment 6a</li>
+<li>Program 6a</li>
 </ul>
