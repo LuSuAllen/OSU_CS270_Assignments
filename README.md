@@ -1,5 +1,5 @@
 <h1>OSU_CS270_Assignments</h1>
-<h2>Assignments for CS 270 (assemble language)</h2>
+<h2>Assignments for CS 270 in Oregon State(assemble language)</h2>
 <ul>
 <li>Program 1</li>
 
